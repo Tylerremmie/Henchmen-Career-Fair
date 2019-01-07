@@ -5,6 +5,6 @@ COSC4358 Introduction to Interactive Game Design - Fall 2018 Project
 
 *First Place winner of the SJE - UH Finals Fragfest and Popcon Games Design contest 2018*
 
-![Main Menu](https://imgur.com/PtZ3W6M)
-![Tutorial](https://imgur.com/w4FMbOx)
-![Level 1](https://imgur.com/CHmG2EC)
+![Main Menu](https://i.imgur.com/PtZ3W6M.png)
+![Tutorial](https://i.imgur.com/w4FMbOx.png)
+![Level 1](https://i.imgur.com/CHmG2EC.png)
